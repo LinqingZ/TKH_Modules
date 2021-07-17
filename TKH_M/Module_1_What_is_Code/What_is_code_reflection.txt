@@ -1,0 +1,43 @@
+MODULE1:WHAT IS CODE?
+WHAT_IS_CODE_REFLECTION
+1. In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+      The computer constantly scans to see which keys are pressed down. When type a letter on a keyboard, the key will sends
+      a scancode to the computer. The computer interprets the scancode and pass it to interior, then search for which key is
+      that corresponding to and put it on the screen.
+
+2. In your own words, how do computers use input and output to create experiences? (250 words max)
+      The computer responds and changes base on the input and generates the output to users. Things are base on how users put
+      in the input and want users want to get for the output. The changes are made by the users and then output by the computer.
+
+3. Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+      Because free software-based systems began to nibble, then devour the server market, and free-to-use Web-based applications
+      like Google Apps began to serve as viable replacements for desktop software. We keep generating more data which requires more
+      programming that people have to come up with new categories of infinitely reproducible nothings to handle what happened with the last batch.
+
+4. Explain in your own words how code becomes software. (150 words max)
+      The software transform code into machine language that can make a computing device to work whatever need to do.
+      Code turns into a explicit list of instructions that can be carried out by interconnected logic gates which turns code into
+      something that can be executed which is software.
+
+5. Explain “algorithms” in your own words. (150 words max)
+      "Algorithms" are the logic of a programming language or software to solves a problem. Algorithm can be translated into functions when software is executed.
+      Algorithm is relates to the way to process of data and the storing data. It is encoding, naming, and organizing by programming languages.
+
+6. Explain the DRY principle. (100 words max)
+      The DRY principle, for Don't Repeat Yourself, is one of the colloquial tenets of programming. It is name things once, do things once, create a function once,
+      and let the computer repeat itself.
+
+7. In your own words, what is object-oriented programming? (100 words max)
+      Object-oriented programming is a filing system for code. programming based on the concept of "objects."
+
+8. In your own words explain data and how it relates to code. (100 Words max)
+      Data is a given to the systems that Coding is to sort the data. Coding manages and analysts data. Data given code to use function and method to solve problems.
+
+9. What is a framework? (150 words max)
+      Framework is a platform for developing software applications. It is a construct that solves problems and built by people.
+
+10. What is debugging? (150 words max)
+      Debugging is to figure out and fix the problem in the code. It is the process to identify and remove errors from the programming.
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+      I want to learn how to code because it fun to create new feature and code what I want to do. I enjoy the process of solving problems.
