@@ -1,0 +1,3 @@
+What is Git and how is it different than Github
+Why use the terminal
+Explain 3 benefits of version control in your own words
