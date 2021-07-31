@@ -1,3 +1,69 @@
 body{
 	min-height:100vh;
 }
+:root{
+	--first-color: #dbe4e8;
+	--second-color:#f5f5f5;
+	--third-color:#990099;
+	--fourth-color:black;
+	--font:'Inconsolata';
+	--shadow:0 3px 6px rgba(0,0,0,0.16),0 3px 6px rgba(0,0,0,0.23);
+	
+}
+p{
+	text-align:;
+	color:red;
+}
+html{
+	font-size:calc(1em+1vw)
+}
+button{
+	font-size:inherit
+}
+input{
+	font-size:inherit
+}
+.center{
+	text-align: center;
+	color: red;
+}
+/*banner*/
+.banner{}
+.title{}
+
+/*about-me*/
+.about-me{}
+.profile{}
+.profile-pic{}
+.about-me-text{}
+
+/*career*/
+.career{}
+.goals{}
+.skills{}
+/*projects*/
+.projects{}
+.project{}
+
+/*contact*/
+.contact-from{}
+.contact{}
+/*form styles*/
+Input{}
+
+input[type=button],{}
+
+/*resume*/
+.jobs{}
+.job{}
+/*education*/
+.education{}
+/*footer*/
+.footer{}
+
+
+p.center{
+	text.align:center;
+	color:red;
+}
+
